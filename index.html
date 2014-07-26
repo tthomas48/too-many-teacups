@@ -1,0 +1,33 @@
+<html>
+<head>
+  <title>Too Many Teacups!</title>
+  <style>
+    #teacup {
+      position: absolute;
+      display: none;
+    }
+    #wrapper {
+      position: relative;
+    }
+  </style>
+</head>
+<body>
+   <h1>Find the 7 Teacup Chihuahas!</h1>
+   <p>You've fallen asleep while dog sitting and all the chihuahas have hidden in the house. You need to find them
+      all before their owner comes home!</p>
+   <button onclick="document.location = 'index.html';">New Game</button>
+   <h5>Missing <span id="found">7</span></h5>
+   <div id="wrapper">
+     <div id="main">
+     </div>
+     <div id="teacup">
+     </div>
+   </div>
+   <script src="bower_components/jquery/dist/jquery.min.js">
+   </script>
+   <script src="bower_components/director/build/director.min.js">
+   </script>
+   <script src="teacup.js">
+   </script>
+</body>
+</html>

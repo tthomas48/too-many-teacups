@@ -1,0 +1,12 @@
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Tim Thomas -->
+<area shape="rect" coords="2,299,109,401" href="#/dining-room" />
+<area shape="rect" coords="35,168,237,210" href="#/location-11" />
+<area shape="rect" coords="683,202,740,268" href="#/location-12" />
+<area shape="rect" coords="642,360,734,436" href="#/location-13" />
+<area shape="rect" coords="357,233,542,386" href="#/location-14" />
+</map>
